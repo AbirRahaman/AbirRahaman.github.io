@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Abir Rahaman Resume.pdf", title: "Resume"}
+  - {file: https://abirr18.github.io/folder/Abir Rahaman Resume.pdf, title: "Resume"}
   - {file: "Projects.md", title: "Projects"}
   - {file: "Coursework.md", title: "Coursework"}
 
