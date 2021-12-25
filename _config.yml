@@ -31,7 +31,3 @@ comments:
 
 plugins:
  - jekyll-feed
- 
- defaults:
-  - scope:
-      path: "
