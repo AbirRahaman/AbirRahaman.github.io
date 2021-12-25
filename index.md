@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Blog"
+title: "About me"
 ---
 
 I am a junior at Virginia Tech majoring in computer science.
