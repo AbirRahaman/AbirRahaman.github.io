@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file:  <embed src="https://abirr18.github.io/Abir Rahaman Resume.pdf" width="100%" height="850px"/>, title: "Resume"}
+  - {file: "Resume.md", title: "Resume"}
   - {file: "Projects.md", title: "Projects"}
   - {file: "Coursework.md", title: "Coursework"}
 
