@@ -3,7 +3,7 @@ layout: page
 title: "Personal Projects"
 ---
 
-<h2>COVID-19 Visualizer</h2>  
+<h3>COVID-19 Visualizer</h3>  
 <ul>
   <li> School group project</li>
   <li>Takes a file input of COVID cases and deaths for various races in different states and visually displays the 
@@ -14,7 +14,7 @@ fatality rate of each race by state</li>
   <li>Tools used: Java, Eclipse, JUnit Testing, Lucid Chart (UML Diagramming)</li>
 </ul>
 
-<h2>Personal Website</h2> 
+<h3>Personal Website</h3> 
 <ul>
   <li>Created using Jekyll and hosted with GitHub pages</li>
   <li>Includes a brief introduction, current career-related goals, resume, projects, relevant coursework, and 
