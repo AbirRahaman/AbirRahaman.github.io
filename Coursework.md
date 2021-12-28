@@ -12,6 +12,6 @@ title: "Coursework"
 - Fundamentals of engineering
 - Multivariable Calculus 
 - Applied Combinatorics
-- Statistic for Engineers
+- Statistics for Engineers
 - Discrete Math
 - Linear Algebra
