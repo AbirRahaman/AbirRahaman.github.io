@@ -3,17 +3,19 @@ layout: page
 title: "Personal Projects"
 ---
 
-COVID-19 Visualizer – School Group Project 
-• Takes a file input of COVID cases and deaths for various races in different states and visually displays the 
-fatality rate of each race by state
-• Uses a GUI window to display data that features buttons to control the window
-• Fatality rates are represented by colored bars and labeled with the fatality rate percentage
-• Features alphabetical sorting by race and numerical sorting by fatality rate
-• Tools used: Java, Eclipse, JUnit Testing, Lucid Chart (UML Diagramming)
+<h1>COVID-19 Visualizer</h1> – School Group Project 
+<ul>
+  <li>Takes a file input of COVID cases and deaths for various races in different states and visually displays the 
+fatality rate of each race by state</li>
+  <li>Uses a GUI window to display data that features buttons to control the window</li>
+  <li>Fatality rates are represented by colored bars and labeled with the fatality rate percentage</li>
+  <li>Features alphabetical sorting by race and numerical sorting by fatality rate</li>
+  <li>Tools used: Java, Eclipse, JUnit Testing, Lucid Chart (UML Diagramming)</li>
 
-Personal Website 
-• Created using Jekyll and hosted with GitHub pages
-• Includes a brief introduction, current career-related goals, resume, projects, relevant coursework, and 
-contact links
-• Tools used: Jekyll, GitHub pages, Markdown, YAML, HTML
+<h1>Personal Website</h1> 
+<ul>
+  <li>Created using Jekyll and hosted with GitHub pages</li>
+  <li>Includes a brief introduction, current career-related goals, resume, projects, relevant coursework, and 
+contact links</li>
+  <li>Tools used: Jekyll, GitHub pages, Markdown, YAML, HTML</li>
 
