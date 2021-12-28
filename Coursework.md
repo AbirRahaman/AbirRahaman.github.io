@@ -3,7 +3,7 @@ layout: page
 title: "Coursework"
 ---
 
-Relevant completed coursework:
+<h4>Relevant completed coursework:</h4>
 
 - Introduction to computer science (Java)
 - Introduction to software design and problem-solving (Java)
