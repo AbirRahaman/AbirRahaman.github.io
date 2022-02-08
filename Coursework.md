@@ -15,7 +15,8 @@ title: "Coursework"
 - Introduction to Computer Science (Java)
 - Introduction to Software Sesign and Problem-Solving (Java)
 - Data Structures and Algorithms (Java)
-- Software Design and Data Structures 
+- Software Design and Data Structures (Java)
+- Fundamentals of Engineering
 - Multivariable Calculus 
 - Applied Combinatorics
 - Statistics for Engineers
